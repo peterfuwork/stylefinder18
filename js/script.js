@@ -191,7 +191,7 @@ $(function () {
 			}
 			
 			// remove this event prevent to make it to work!!!
-			event.preventDefault();
+			//event.preventDefault();
 		})
 
 	}
